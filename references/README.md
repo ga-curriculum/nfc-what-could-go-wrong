@@ -5,6 +5,5 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [NFC Forum](https://nfc-forum.org/)
+- [yubico - YubiKey 5C NFC](https://www.yubico.com/product/yubikey-5c-nfc/)

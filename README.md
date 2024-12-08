@@ -11,10 +11,10 @@ A quick lesson on near field communication (NFC), associated risks, and preventa
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Introduction to NFC Technology](./introduction-to-nfc-technology/README.md) | 5 min| What is NFC and how does it work?                |
-| [Risks Associated With NFC](./risks-associated-with-nfc/README.md) | 5 min | Common risks seen with NFC usage                |
-| [Mitigating NFC Risks](./mitigating-nfc-risks/README.md) | 5 min | Mitigating common NFC risks               |
-| **Total content**                                   | -- |                                     |
+| [Intro to NFC Technology](./intro-to-nfc-technology/README.md)     | 10 min | What is NFC and how does it work? |
+| [Risks Associated With NFC](./risks-associated-with-nfc/README.md) |  5 min | Common risks seen with NFC usage. |
+| [Mitigating NFC Risks](./mitigating-nfc-risks/README.md)           |  5 min | Mitigating common NFC risks.      |
+| **Total content**                                                  | 20 min |                                   |
 
 ## References
 
@@ -28,8 +28,8 @@ A quick lesson on near field communication (NFC), associated risks, and preventa
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/NFC-what-could-go-wrong/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/NFC-what-could-go-wrong/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/nfc-what-could-go-wrong/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/nfc-what-could-go-wrong/canvas-landing-pages/fallback.html)
 
 ### Resources
 

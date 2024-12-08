@@ -14,23 +14,27 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "NFC - What Could Go Wrong?"
   // This must match the repo name as it appears on GitHub exactly
-  name = "NFC-what-could-go-wrong"
+  name = "nfc-what-could-go-wrong"
   type = "Lesson"
 }
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      mls.introToNfcTechnology
+      mls.risksAssociatedWithNfc
+      mls.mitigatingNfcRisks
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.introToNfcTechnology
+      mls.risksAssociatedWithNfc
+      mls.mitigatingNfcRisks
     }
   }
 }

@@ -1,26 +1,28 @@
 <h1>
-  <span class="headline">Risks Associated with NFC</span>
-  <span class="subhead">How Card Data Can be Compromised</span>
+  <span class="headline">NFC - What Could Go Wrong?</span>
+  <span class="subhead">Risks Associated With NFC</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to identify common cybersecurity risks associated with NFC, including methods attackers might use to intercept or steal card data.
 
-## How Data Can Be Stolen
+## How data can be stolen
 
 1. Eavesdropping
 
-- Attackers use powerful antennas to capture transmissions
-- This can happen from several feet away and often targets payment information
+   - Attackers use powerful antennas to capture transmissions.
+   - This can happen from several feet away and often targets payment information.
 
-1. Relay Attacks
+2. Relay attacks
 
-- Criminals use two devices - one near your card or phone and another near a payment terminal
-- Your card thinks it's making a legitimate payment, but it's just providing it to the attackers!
+   - In this type of attack, criminals use two devices - one near your card or phone and another near a payment terminal.
+   - Your card thinks it's making a legitimate payment, but it's just providing it to the attackers!
 
-3. Data Manipulation
+3. Data manipulation
 
-- This attack is done by modifying data during transmission and inserting malicious commands or corrupting transmitted information
+   - This attack is done by modifying data during transmission and inserting malicious commands or corrupting transmitted information
 
-## Real-World Scenarios
+## Real-world scenarios
 
-There are several ways for NFC to become problematic. I bet you've heard about a few of them! Fake payment terminals or "card skimming" devices are frequently found at gas stations. Have you ever seen a commercial advertising RFID blocking wallets? In tight spaces, a reader can be used to steal your information just be getting close enough.
+There are several ways in which NFC can become problematic. I bet you've heard about a few of them! Fake payment terminals or card skimming devices are frequently found at gas stations.
+
+A reader can be used to steal your information just by getting close enough - even through a few layers of clothing. Have you seen commercials advertising RFID-blocking wallets to help prevent this?
