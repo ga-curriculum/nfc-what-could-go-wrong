@@ -30,7 +30,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "RisksAssociated With NFC",
+          "friendlyName": "Risks Associated With NFC",
           "dirName": "risks-associated-with-nfc",
           "type": "Content",
           "skill": "",
@@ -40,7 +40,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "MitigatingNfcRisks",
+          "friendlyName": "Mitigating NFC Risks",
           "dirName": "mitigating-nfc-risks",
           "type": "Content",
           "skill": "",
@@ -89,7 +89,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "RisksAssociated With NFC",
+          "friendlyName": "Risks Associated With NFC",
           "dirName": "risks-associated-with-nfc",
           "type": "Content",
           "skill": "",
@@ -99,7 +99,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "MitigatingNfcRisks",
+          "friendlyName": "Mitigating NFC Risks",
           "dirName": "mitigating-nfc-risks",
           "type": "Content",
           "skill": "",

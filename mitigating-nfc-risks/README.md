@@ -15,8 +15,12 @@
 
 ### Device security
 
-1. **Phone settings**: Turn off NFC when it isn't in use and keep your OS and software updated so you always have the latest security features!
-2. **Payment security**: Set payment limits and monitor your transactions regularly. Enabling transaction notifications is a great way to keep up with this.
+When securing NFC features on mobile devices, consider taking these precautions:
+
+1. **Phone settings**: Turn off NFC when it isn't in use and keep your OS and software updated so you always have the latest security features! Enable a strong PIN and device encryption, password, or biometric authentication for added protection.
+2. **Payment security**: Set payment limits and monitor your transactions regularly. Enabling transaction notifications is a great way to keep up with this. Use only trusted apps for NFC payments and avoid unofficial or unverified ones.
+3. **Proximity awareness**: Be cautious when using NFC in public or crowded spaces to avoid unauthorized scanning or malicious NFC tags. Always inspect payment terminals for signs of tampering before use.
+4. **App permissions**: Regularly review and manage permissions for NFC-enabled apps to ensure they don't have unnecessary access to sensitive data.
 
 ### Tips and tricks
 

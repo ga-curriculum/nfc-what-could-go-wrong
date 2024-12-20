@@ -10,14 +10,14 @@ introToNfcTechnology = new Template.Microlesson {
 }
 
 risksAssociatedWithNfc = new Template.Microlesson {
-  friendlyName = "RisksAssociated With NFC"
+  friendlyName = "Risks Associated With NFC"
   dirName = "risks-associated-with-nfc"
   type = "Content"
   videoUrl = ""
 }
 
 mitigatingNfcRisks = new Template.Microlesson {
-  friendlyName = "MitigatingNfcRisks"
+  friendlyName = "Mitigating NFC Risks"
   dirName = "mitigating-nfc-risks"
   type = "Content"
   videoUrl = ""
