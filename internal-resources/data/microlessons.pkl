@@ -2,9 +2,9 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-introToNfcTechnology = new Template.Microlesson {
-  friendlyName = "Intro to NFC Technology"
-  dirName = "intro-to-nfc-technology"
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
   type = "Content"
   videoUrl = ""
 }

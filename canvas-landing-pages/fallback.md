@@ -12,7 +12,7 @@ A quick lesson on Near Field Communication (NFC), associated risks, and preventa
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Intro to NFC Technology](../intro-to-nfc-technology/README.md)     | 10 min | What is NFC and how does it work? |
+| [Concepts](../concepts/README.md)                                   | 10 min | What is NFC and how does it work? |
 | [Risks Associated With NFC](../risks-associated-with-nfc/README.md) |  5 min | Common risks seen with NFC usage. |
 | [Mitigating NFC Risks](../mitigating-nfc-risks/README.md)           |  5 min | Mitigating common NFC risks.      |
 | **Total content**                                                   | 20 min |                                   |

@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">NFC - What Could Go Wrong?</span>
-  <span class="subhead">Intro to NFC Technology</span>
+  <span class="subhead">Concepts</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to describe the basics of NFC technology and how it enables wireless data transmission.

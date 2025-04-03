@@ -22,7 +22,7 @@ courses {
   new {
     name = "itb"
     microlessons {
-      mls.introToNfcTechnology
+      mls.concepts
       mls.risksAssociatedWithNfc
       mls.mitigatingNfcRisks
     }
@@ -32,7 +32,7 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.introToNfcTechnology
+      mls.concepts
       mls.risksAssociatedWithNfc
       mls.mitigatingNfcRisks
     }
